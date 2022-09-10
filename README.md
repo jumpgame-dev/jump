@@ -51,4 +51,4 @@ The game isn't available in GitHub, but yes on<a href="https://jumpgamedev.itch.
 >
 >
 >**⚠️ADVISE⚠️**
->The web is **only** in Spanish, so if you don't understand Spanish you can use Google Translator for webs incoporated on [Google Chrome](https://www.google.com/chrome/).
+>The web is **only** in Spanish, so if you don't understand Spanish you can use Google Translator for webs incorporated on [Google Chrome](https://www.google.com/chrome/).
