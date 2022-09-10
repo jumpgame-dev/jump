@@ -23,4 +23,8 @@ El juego no está disponible de momento en GitHub, pero si en <a href="https://j
 > Recuerda poner la etiqueta de «Bug». Trata de poner un título que describa bien el bug y adjunte imágenes y/o vídeos o intente explicarnos como replicar el bug.
 
 
+## ✉️CONTACTO✉️
+
+>Puede ponerse en contacto con nosotros a través de <a href="mailto:jumpgame.dev@gmail.com">este</a> email o accediendo a nuestra [web](https://www.jumpgamedev.tk) y en el apartado de «_Contáctanos!_» 
+
 ## ![image](https://i.imgur.com/6UI5j0E.png)
