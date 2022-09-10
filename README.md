@@ -48,5 +48,7 @@ The game isn't available in GitHub, but yes on<a href="https://jumpgamedev.itch.
 ## ✉️CONTACT✉️
 
 >You can contact us through <a href="mailto:jumpgame.dev@gmail.com">this</a> email or entering to our [web](https://www.jumpgamedev.tk) and in the place where puts  «_Contáctanos!_» complete de contact form.
+>
+>
 >**⚠️ADVISE⚠️**
 >The web is **only** in Spanish, so if you don't understand Spanish you can use Google Translator for webs incoporated on [Google Chrome](https://www.google.com/chrome/).
