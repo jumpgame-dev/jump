@@ -16,6 +16,6 @@
 |    0.3    |                  Windows                |
 |    0.4    |                  Windows                |
 
-El juego no está disponible en GitHub, pero si en <a href="https://jumpgamedev.itch.io" target="">itch.io</a>
+El juego no está disponible en GitHub, pero si en <a href="https://jumpgamedev.itch.io" target="_blank">itch.io</a>
 
 ## ![image](https://i.imgur.com/6UI5j0E.png)
