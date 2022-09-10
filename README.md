@@ -42,7 +42,7 @@ The game isn't available in GitHub, but yes on<a href="https://jumpgamedev.itch.
 
 ## 🕹️Report a bug🕹️
 > In the game, pause the game and in the menu press de button «Options» which will pop up another menu in which you must press the button «Report» and the navigator will pop up ready to write a report. 
-> Remember to put the «Bug» ticket. Try to put a title which describes well the bug and attach images and/or videos or try to explain us how to replicate the bug.
+> Remember to put the «Bug» label on your report. Try to put a title which describes well the bug and attach images and/or videos or try to explain us how to replicate the bug.
 
 
 ## ✉️CONTACT✉️
