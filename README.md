@@ -1,6 +1,8 @@
 # Jump
 
-![](https://img.itch.zone/aW1nLzk5NjQ3NzEucG5n/original/69AWFm.png)
+<p align="center">
+  <img src="https://img.itch.zone/aW1nLzk5NjQ3NzEucG5n/original/69AWFm.png" />
+</p>
 
 
 ## ![image](https://i.imgur.com/QSelqM0.png)
