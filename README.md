@@ -18,7 +18,7 @@
 
 El juego no está disponible de momento en GitHub, pero si en <a href="https://jumpgamedev.itch.io" target="_blank">itch.io</a>
 
-## - Reportar un bug
+## 🕹️Reportar un bug🕹️
 > En el juego, pausa la partida y en el menú de pausa pulsa el botón «Opciones» el cual te abrirá otro menú en el que pulsarás en «Resportar» y si te abrirá el navegador para escribir un reporte. 
 > Recuerda poner la etiqueta de «Bug». Trata de poner un título que describa bien el bug y adjunte imágenes y/o vídeos o intente explicarnos como replicar el bug.
 
